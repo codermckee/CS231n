@@ -4,3 +4,5 @@
 未完待续(2018-1-4 @author: mckee)<br>
 2018-1-10 完成 作业1-SVM <br>
 未完待续(2018-1-10 @author: mckee)<br>
+2018-1-12 完成 作业1-Softmax <br>
+未完待续(2018-1-12 @author: mckee)<br>
