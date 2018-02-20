@@ -10,5 +10,8 @@
 2018-1-20 完成 作业1-Two-layer neural network <br>
 未完待续(2018-1-20 @author: mckee)<br>
 <-----------------------------------------------><br>
-2018-2-14 完成 作业2-Multi-layer neural network <br>
+2018-2-14 完成 作业2- FC neural network <br>
 未完待续(2018-2-14 @author: mckee)<br>
+2018-2-18 完成 作业2- CNN <br>
+未完待续(2018-2-18 @author: mckee)<br>
+<-----------------------------------------------><br>
